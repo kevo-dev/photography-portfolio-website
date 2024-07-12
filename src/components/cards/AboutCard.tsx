@@ -15,7 +15,7 @@ function AboutCard() {
         Welcome to Image Frontier, where every click captures a story. 
         Specializing in visual narratives that evoke emotion and inspiration, 
         Image Frontier blends artistic vision with technical expertise to deliver 
-        captivating photographs that resonate. Whether it's capturing fleeting moments
+        captivating photographs that resonate. Whether it&apos;s capturing fleeting moments
          or crafting stunning compositions, our dedicated team of photographers brings creativity
           and professionalism to every project. Step into a world where images speak louder than words,
            and let Image Frontier transform your visual storytelling experience.
