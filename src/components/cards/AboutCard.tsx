@@ -12,13 +12,13 @@ function AboutCard() {
         </p>
       </div>
       <p className="text-customGrayAlt2 text-[0.875rem] mt-[0.75rem]  px-[2.5rem]">
-        My journey as a photographer has been a lifelong quest to capture the
-        extraordinary in the ordinary, to freeze fleeting moments in time, and
-        to share the world&apos;s beauty as I see it. Based in the enchanting
-        landscapes of the USA, I find inspiration in every corner of this
-        diverse and vibrant country. Join me as we embark on a visual odyssey,
-        where each photograph tells a story, and every frame is a piece of my
-        heart.
+        Welcome to Image Frontier, where every click captures a story. 
+        Specializing in visual narratives that evoke emotion and inspiration, 
+        Image Frontier blends artistic vision with technical expertise to deliver 
+        captivating photographs that resonate. Whether it's capturing fleeting moments
+         or crafting stunning compositions, our dedicated team of photographers brings creativity
+          and professionalism to every project. Step into a world where images speak louder than words,
+           and let Image Frontier transform your visual storytelling experience.
       </p>
 
       <Separator className="bg-lightDark my-[2.5rem]" />
@@ -37,7 +37,7 @@ function AboutCard() {
               Email
             </p>
             <p className="text-[1.125rem] font-[500] text-customGrayAlt2">
-              damienbraun@gmail.com
+             imagefrontier@gmail.com
             </p>
           </div>
 
@@ -73,7 +73,7 @@ function AboutCard() {
 
         <div className="flex flex-col lg:flex-row gap-[1.25rem]">
           <MainButton text="Let's Work" classes="w-full md:w-[inherit]" />
-          <MainButton text="Download CV" classes="w-full md:w-[inherit]" />
+          
         </div>
       </div>
     </div>

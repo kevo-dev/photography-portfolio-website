@@ -13,37 +13,37 @@ function FaqSection() {
       id: "0",
       question: "What type of photography do you specialize in?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "We specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
     },
     {
       id: "1",
       question: "How can I book a photography session with you?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "We specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
     },
     {
       id: "2",
       question: "What equipment do you use for your photography?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "We specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
     },
     {
       id: "3",
       question: "Can I request a specific location for a ",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "We specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
     },
     {
       id: "4",
       question: "What is your editing process like?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "We specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
     },
     {
       id: "5",
       question: "Are digital files included in your photography packages?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "We specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
     },
     {
       id: "6",

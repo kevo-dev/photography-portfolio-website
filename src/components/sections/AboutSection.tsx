@@ -12,7 +12,7 @@ function AboutSection() {
         <div>
           <Header
             title="About"
-            description={`I AM ${PORTFOLIO_OWNER_FIRSTNAME}`}
+            description={`We are #imagefrontier`}
           />
         </div>
         <div>
@@ -22,7 +22,7 @@ function AboutSection() {
       <Separator className="bg-lightDark my-8 mb-[2.5rem] md:mb-[5rem]" />
       <section className="grid grid-cols-1 md:grid-cols-2 gap-[1.25rem]">
         <div className="flex-grow-1">
-          <img src="/images/damien_alt.png" alt="portfolio owner" />
+          <img src="/images/aboutimg.jpg" alt="office space" />
         </div>
         <AboutCard />
       </section>

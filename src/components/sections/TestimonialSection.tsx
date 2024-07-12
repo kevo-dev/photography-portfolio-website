@@ -10,30 +10,30 @@ function TestimonialSection() {
     {
       id: 0,
       name: "Emily Johnson",
-      country: "USA, California",
+      country: "Nairobi, Kenya",
       review:
-        "Damien's photography doesn't just capture moments; it captures emotions. Hes work is simply mesmerizing.",
+        "Image Frontier doesn't just capture moments; it captures emotions. Their work is simply mesmerizing.",
     },
     {
       id: 1,
       name: "John Smith",
-      country: "USA, California",
+      country: "Nairobi, Kenya",
       review:
-        "Damien's photography doesn't just capture moments; it captures emotions. Hes work is simply mesmerizing.",
+        "Image Frontier doesn't just capture moments; it captures emotions. Their work is simply mesmerizing.",
     },
     {
       id: 2,
       name: "Samantha",
-      country: "USA, California",
+      country: "Nairobi, Kenya",
       review:
-        "I was blown away by Damien's ability to capture the essence of our wedding day. Hes photographs are our cherished memories.",
+        "I was blown away by their ability to capture the essence of our wedding day. Their photographs are our cherished memories.",
     },
   ];
   return (
     <section className="">
       <section className="flex justify-between gap-[1.25rem]">
         <div>
-          <Header title="Testimonials" description="What My Clients Say" />
+          <Header title="Testimonials" description="What Our Clients Say" />
         </div>
       </section>
 
